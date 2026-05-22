@@ -1,4 +1,4 @@
-public class App {
+public class Ex001 {
     public static void main(String[] args) throws Exception {
         char letra;
         for (int i = 0; i < 26; i++) {
